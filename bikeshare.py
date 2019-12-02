@@ -17,7 +17,7 @@ def city_input():
     '''
     print('Hello! I am Kwanele Let\'s explore some US bikeshare data!')
     print(' ')
-    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle all invalid inputs
     print('Enter the city you want to analyze the data for:')
     print('Chicago: 1')
     print('New York: 2')
