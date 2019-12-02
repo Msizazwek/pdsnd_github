@@ -5,10 +5,14 @@
 BikeShare 
 
 ### Description
-Describe what your project is about and what it does
+Showing how these three cities use bikes
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
+bikeshare.py
+bikeshre.gitignore
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
