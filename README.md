@@ -15,5 +15,5 @@ bikeshare.py
 bikeshre.gitignore
 
 ### Credits
-https://github.com/udacity/course-git-blog-project.
+https://github.com/udacity/course-git-blog-project
 
