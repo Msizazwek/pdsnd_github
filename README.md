@@ -5,7 +5,8 @@
 BikeShare Project
 
 ### Description
-Showing how these three cities use bikes
+Showing how these three cities use bikes.
+To travel to work.
 
 ### Files used
 chicago.csv
