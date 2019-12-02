@@ -2,7 +2,7 @@
 02/December/2019
 
 ### Project Title
-BikeShare 
+BikeShare Project
 
 ### Description
 Showing how these three cities use bikes
