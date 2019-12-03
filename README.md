@@ -9,9 +9,9 @@ Showing how these three cities use bikes.
 To travel to work.
 
 ### Files used
-chicago.csv
-washington.csv
-new_york_city.csv
+chicago
+washington
+new_york_city
 bikeshare.py
 bikeshre.gitignore
 
